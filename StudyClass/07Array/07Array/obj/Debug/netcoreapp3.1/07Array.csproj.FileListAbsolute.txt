@@ -1,0 +1,13 @@
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\bin\Debug\netcoreapp3.1\07Array.exe
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\bin\Debug\netcoreapp3.1\07Array.deps.json
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\bin\Debug\netcoreapp3.1\07Array.runtimeconfig.json
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\bin\Debug\netcoreapp3.1\07Array.runtimeconfig.dev.json
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\bin\Debug\netcoreapp3.1\07Array.dll
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\bin\Debug\netcoreapp3.1\07Array.pdb
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\obj\Debug\netcoreapp3.1\07Array.csprojAssemblyReference.cache
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\obj\Debug\netcoreapp3.1\07Array.AssemblyInfoInputs.cache
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\obj\Debug\netcoreapp3.1\07Array.AssemblyInfo.cs
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\obj\Debug\netcoreapp3.1\07Array.csproj.CoreCompileInputs.cache
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\obj\Debug\netcoreapp3.1\07Array.dll
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\obj\Debug\netcoreapp3.1\07Array.pdb
+C:\Users\yuma\source\repos\StudyClass\07Array\07Array\obj\Debug\netcoreapp3.1\07Array.genruntimeconfig.cache

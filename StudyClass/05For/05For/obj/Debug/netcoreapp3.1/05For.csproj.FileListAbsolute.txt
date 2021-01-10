@@ -1,0 +1,13 @@
+C:\Users\yuma\source\repos\StudyClass\05For\05For\bin\Debug\netcoreapp3.1\05For.exe
+C:\Users\yuma\source\repos\StudyClass\05For\05For\bin\Debug\netcoreapp3.1\05For.deps.json
+C:\Users\yuma\source\repos\StudyClass\05For\05For\bin\Debug\netcoreapp3.1\05For.runtimeconfig.json
+C:\Users\yuma\source\repos\StudyClass\05For\05For\bin\Debug\netcoreapp3.1\05For.runtimeconfig.dev.json
+C:\Users\yuma\source\repos\StudyClass\05For\05For\bin\Debug\netcoreapp3.1\05For.dll
+C:\Users\yuma\source\repos\StudyClass\05For\05For\bin\Debug\netcoreapp3.1\05For.pdb
+C:\Users\yuma\source\repos\StudyClass\05For\05For\obj\Debug\netcoreapp3.1\05For.csprojAssemblyReference.cache
+C:\Users\yuma\source\repos\StudyClass\05For\05For\obj\Debug\netcoreapp3.1\05For.AssemblyInfoInputs.cache
+C:\Users\yuma\source\repos\StudyClass\05For\05For\obj\Debug\netcoreapp3.1\05For.AssemblyInfo.cs
+C:\Users\yuma\source\repos\StudyClass\05For\05For\obj\Debug\netcoreapp3.1\05For.csproj.CoreCompileInputs.cache
+C:\Users\yuma\source\repos\StudyClass\05For\05For\obj\Debug\netcoreapp3.1\05For.dll
+C:\Users\yuma\source\repos\StudyClass\05For\05For\obj\Debug\netcoreapp3.1\05For.pdb
+C:\Users\yuma\source\repos\StudyClass\05For\05For\obj\Debug\netcoreapp3.1\05For.genruntimeconfig.cache

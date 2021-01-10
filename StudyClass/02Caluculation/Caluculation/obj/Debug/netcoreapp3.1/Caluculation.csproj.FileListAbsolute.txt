@@ -1,0 +1,13 @@
+C:\Users\yuma\source\repos\Caluculation\Caluculation\bin\Debug\netcoreapp3.1\Caluculation.exe
+C:\Users\yuma\source\repos\Caluculation\Caluculation\bin\Debug\netcoreapp3.1\Caluculation.deps.json
+C:\Users\yuma\source\repos\Caluculation\Caluculation\bin\Debug\netcoreapp3.1\Caluculation.runtimeconfig.json
+C:\Users\yuma\source\repos\Caluculation\Caluculation\bin\Debug\netcoreapp3.1\Caluculation.runtimeconfig.dev.json
+C:\Users\yuma\source\repos\Caluculation\Caluculation\bin\Debug\netcoreapp3.1\Caluculation.dll
+C:\Users\yuma\source\repos\Caluculation\Caluculation\bin\Debug\netcoreapp3.1\Caluculation.pdb
+C:\Users\yuma\source\repos\Caluculation\Caluculation\obj\Debug\netcoreapp3.1\Caluculation.csprojAssemblyReference.cache
+C:\Users\yuma\source\repos\Caluculation\Caluculation\obj\Debug\netcoreapp3.1\Caluculation.AssemblyInfoInputs.cache
+C:\Users\yuma\source\repos\Caluculation\Caluculation\obj\Debug\netcoreapp3.1\Caluculation.AssemblyInfo.cs
+C:\Users\yuma\source\repos\Caluculation\Caluculation\obj\Debug\netcoreapp3.1\Caluculation.csproj.CoreCompileInputs.cache
+C:\Users\yuma\source\repos\Caluculation\Caluculation\obj\Debug\netcoreapp3.1\Caluculation.dll
+C:\Users\yuma\source\repos\Caluculation\Caluculation\obj\Debug\netcoreapp3.1\Caluculation.pdb
+C:\Users\yuma\source\repos\Caluculation\Caluculation\obj\Debug\netcoreapp3.1\Caluculation.genruntimeconfig.cache

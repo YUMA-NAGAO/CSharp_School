@@ -1,0 +1,13 @@
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\bin\Debug\netcoreapp3.1\06IfNabeatu.exe
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\bin\Debug\netcoreapp3.1\06IfNabeatu.deps.json
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\bin\Debug\netcoreapp3.1\06IfNabeatu.runtimeconfig.json
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\bin\Debug\netcoreapp3.1\06IfNabeatu.runtimeconfig.dev.json
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\bin\Debug\netcoreapp3.1\06IfNabeatu.dll
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\bin\Debug\netcoreapp3.1\06IfNabeatu.pdb
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\obj\Debug\netcoreapp3.1\06IfNabeatu.csprojAssemblyReference.cache
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\obj\Debug\netcoreapp3.1\06IfNabeatu.AssemblyInfoInputs.cache
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\obj\Debug\netcoreapp3.1\06IfNabeatu.AssemblyInfo.cs
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\obj\Debug\netcoreapp3.1\06IfNabeatu.csproj.CoreCompileInputs.cache
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\obj\Debug\netcoreapp3.1\06IfNabeatu.dll
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\obj\Debug\netcoreapp3.1\06IfNabeatu.pdb
+C:\Users\yuma\source\repos\StudyClass\06IfNabeatu\06IfNabeatu\obj\Debug\netcoreapp3.1\06IfNabeatu.genruntimeconfig.cache

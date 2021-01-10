@@ -1,0 +1,13 @@
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.exe
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.deps.json
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.runtimeconfig.json
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.runtimeconfig.dev.json
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.dll
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.pdb
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.csprojAssemblyReference.cache
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.AssemblyInfoInputs.cache
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.AssemblyInfo.cs
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.csproj.CoreCompileInputs.cache
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.dll
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.pdb
+C:\Users\yuma\source\repos\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.genruntimeconfig.cache

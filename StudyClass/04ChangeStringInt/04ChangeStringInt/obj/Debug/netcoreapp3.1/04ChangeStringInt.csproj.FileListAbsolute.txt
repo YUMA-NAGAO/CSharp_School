@@ -1,0 +1,13 @@
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\bin\Debug\netcoreapp3.1\04ChangeStringInt.exe
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\bin\Debug\netcoreapp3.1\04ChangeStringInt.deps.json
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\bin\Debug\netcoreapp3.1\04ChangeStringInt.runtimeconfig.json
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\bin\Debug\netcoreapp3.1\04ChangeStringInt.runtimeconfig.dev.json
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\bin\Debug\netcoreapp3.1\04ChangeStringInt.dll
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\bin\Debug\netcoreapp3.1\04ChangeStringInt.pdb
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\obj\Debug\netcoreapp3.1\04ChangeStringInt.csprojAssemblyReference.cache
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\obj\Debug\netcoreapp3.1\04ChangeStringInt.AssemblyInfoInputs.cache
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\obj\Debug\netcoreapp3.1\04ChangeStringInt.AssemblyInfo.cs
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\obj\Debug\netcoreapp3.1\04ChangeStringInt.csproj.CoreCompileInputs.cache
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\obj\Debug\netcoreapp3.1\04ChangeStringInt.dll
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\obj\Debug\netcoreapp3.1\04ChangeStringInt.pdb
+C:\Users\yuma\source\repos\StudyClass\04ChangeStringInt\04ChangeStringInt\obj\Debug\netcoreapp3.1\04ChangeStringInt.genruntimeconfig.cache

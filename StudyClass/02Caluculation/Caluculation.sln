@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caluculation", "Caluculation\Caluculation.csproj", "{B94AE3BE-51FB-45A8-956A-71752309341D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94AE3BE-51FB-45A8-956A-71752309341D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94AE3BE-51FB-45A8-956A-71752309341D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94AE3BE-51FB-45A8-956A-71752309341D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94AE3BE-51FB-45A8-956A-71752309341D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235CEA8E-C199-40B3-9810-6CC6CBF7BD40}
+	EndGlobalSection
+EndGlobal

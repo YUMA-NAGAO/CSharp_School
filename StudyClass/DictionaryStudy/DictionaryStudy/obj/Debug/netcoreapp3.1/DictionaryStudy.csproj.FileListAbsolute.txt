@@ -1,0 +1,13 @@
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\bin\Debug\netcoreapp3.1\DictionaryStudy.exe
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\bin\Debug\netcoreapp3.1\DictionaryStudy.deps.json
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\bin\Debug\netcoreapp3.1\DictionaryStudy.runtimeconfig.json
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\bin\Debug\netcoreapp3.1\DictionaryStudy.runtimeconfig.dev.json
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\bin\Debug\netcoreapp3.1\DictionaryStudy.dll
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\bin\Debug\netcoreapp3.1\DictionaryStudy.pdb
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\obj\Debug\netcoreapp3.1\DictionaryStudy.csprojAssemblyReference.cache
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\obj\Debug\netcoreapp3.1\DictionaryStudy.AssemblyInfoInputs.cache
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\obj\Debug\netcoreapp3.1\DictionaryStudy.AssemblyInfo.cs
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\obj\Debug\netcoreapp3.1\DictionaryStudy.csproj.CoreCompileInputs.cache
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\obj\Debug\netcoreapp3.1\DictionaryStudy.dll
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\obj\Debug\netcoreapp3.1\DictionaryStudy.pdb
+C:\Users\yuma\source\repos\StudyClass\DictionaryStudy\DictionaryStudy\obj\Debug\netcoreapp3.1\DictionaryStudy.genruntimeconfig.cache
