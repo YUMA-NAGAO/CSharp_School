@@ -1,0 +1,4 @@
+No.,Name,Japanese,Math,Science,Society,English,Specialty​
+2, NumazuTarou, 80, 50, 20, 30, 10, 80​
+3, NumazuHanako, 50, 30, 80, 80, 90, 50​
+4, NagaizumiJirou, 90, 20, 50, 60, 30, 80

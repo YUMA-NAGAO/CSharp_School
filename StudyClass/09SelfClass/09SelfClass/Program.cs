@@ -8,17 +8,16 @@ namespace _09SelfClass
     {
         static void Main(string[] args)
         {
-            StreamReader file1 = new StreamReader(@"C:\Users\yuma\source\repos\StudyClass\08Class\08Class\Hello.txt");
+           
+        }
 
-            //Console.WriteLine(file1.ReadLine());
+        public class Seiseki
+        {
 
-            //while (!file1.EndOfStream)
-            //{
-            //    string seiseki=file1.ReadLine();
-            //    char[] kugiru = { ',', ' ', '\t' };
-            //    Console.WriteLine(SubjectAverage(seiseki, kugiru));
+            public Seiseki(string filename)
+            {
+                 StreamReader file1 = new StreamReader(filename);
 
-            //}
 
             string fis = file1.ReadLine();
             char[] kugiru = { ',', ' ', '\t' };
@@ -26,15 +25,12 @@ namespace _09SelfClass
             string[] Subject = fis.Split(kugiru, StringSplitOptions.RemoveEmptyEntries);
             List<string> SubjectName = new List<string>();
 
+
             for (int i = 1; i < Subject.Length; i++)
             {
                 SubjectName.Add(Subject[i]);
             }
 
-            //for (int i = 0; i < SubjectName.Count; i++)
-            //{
-            //    Console.WriteLine(SubjectName[i]);
-            //}
 
             Dictionary<string, Dictionary<string, int>> StuGrades = new Dictionary<string, Dictionary<string, int>>();
 
@@ -55,46 +51,18 @@ namespace _09SelfClass
 
             }
 
-
-            List<double> Kamokuheikin = new List<double>();
-            foreach (string kamoku in SubjectName)
-            {
-                double average = 0.0;
-                double avern = 0.0;
-                foreach (string KojinMei in StuGrades.Keys)
+            public void Hyoji()
                 {
-                    Dictionary<string, int> Kojinseiseki = StuGrades[KojinMei];
-                    foreach (string kamokumei in Kojinseiseki.Keys)
-                    {
-                        if (kamokumei == kamoku)
-                        {
-
-                            average += Kojinseiseki[kamokumei];
-
-                        }
-                    }
-                    avern += 1;
-
-
+                    foreach(string a in)
                 }
-                average /= avern;
-                Kamokuheikin.Add(average);
-            }
 
-            for (int i = 0; i < Kamokuheikin.Count; i++)
-            {
-                Console.WriteLine("{0}:{1}", SubjectName[i], Kamokuheikin[i]);
-            }
-
-            Console.WriteLine("hello");
-
-
-
+           
         }
-        public static double SubjectAverage(string student, char[] kugiru)
+
+        public static double SubjectAverage(string StudentNum, char[] kugiru)
         {
 
-            string[] StData = student.Split(kugiru, StringSplitOptions.RemoveEmptyEntries);
+            string[] StData = StudentNum.Split(kugiru, StringSplitOptions.RemoveEmptyEntries);
             double StudentAverage = 0.0;
             int SubjectNum = 0;
             for (int i = 1; i < StData.Length; i++)

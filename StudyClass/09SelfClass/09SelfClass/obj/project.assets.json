@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuma\\source\\repos\\09SelfClass\\09SelfClass\\09SelfClass.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\09SelfClass\\09SelfClass\\09SelfClass.csproj",
       "projectName": "09SelfClass",
-      "projectPath": "C:\\Users\\yuma\\source\\repos\\09SelfClass\\09SelfClass\\09SelfClass.csproj",
+      "projectPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\09SelfClass\\09SelfClass\\09SelfClass.csproj",
       "packagesPath": "C:\\Users\\yuma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuma\\source\\repos\\09SelfClass\\09SelfClass\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\09SelfClass\\09SelfClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
