@@ -1,0 +1,13 @@
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\bin\Debug\netcoreapp3.1\02SampleRPG.exe
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\bin\Debug\netcoreapp3.1\02SampleRPG.deps.json
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\bin\Debug\netcoreapp3.1\02SampleRPG.runtimeconfig.json
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\bin\Debug\netcoreapp3.1\02SampleRPG.runtimeconfig.dev.json
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\bin\Debug\netcoreapp3.1\02SampleRPG.dll
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\bin\Debug\netcoreapp3.1\02SampleRPG.pdb
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\obj\Debug\netcoreapp3.1\02SampleRPG.csprojAssemblyReference.cache
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\obj\Debug\netcoreapp3.1\02SampleRPG.AssemblyInfoInputs.cache
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\obj\Debug\netcoreapp3.1\02SampleRPG.AssemblyInfo.cs
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\obj\Debug\netcoreapp3.1\02SampleRPG.csproj.CoreCompileInputs.cache
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\obj\Debug\netcoreapp3.1\02SampleRPG.dll
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\obj\Debug\netcoreapp3.1\02SampleRPG.pdb
+C:\Users\acfoa\Downloads\programing\CSharp_School\StudyClass\02PracticeCSharp\02SampleRPG\02SampleRPG\obj\Debug\netcoreapp3.1\02SampleRPG.genruntimeconfig.cache
