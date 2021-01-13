@@ -19,9 +19,18 @@ namespace _02SampleRPG
             }
 
             Player player = new Player("ひろし", 100);
+            //int hp1 = player.GetHp();
+            //int newHP1 = hp1 - 2000;
+            //player.SetHP(newHP1);
+            //Console.WriteLine("HPは" + player.GetHp());
 
-            Console.WriteLine(player.name + "体力は" + player.hp);
-        
+            player.Hp -= 2000;
+            Console.WriteLine("HPは" + player.Hp);
+            Player player1 = new Player();
+
+            Console.WriteLine(player1.Name+player1.Hp);
+
+
         }
     }
 }

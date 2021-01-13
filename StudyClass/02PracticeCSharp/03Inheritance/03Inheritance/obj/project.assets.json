@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\02PracticeCSharp\\02SampleRPG\\02SampleRPG\\02SampleRPG.csproj",
-      "projectName": "02SampleRPG",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\02PracticeCSharp\\02SampleRPG\\02SampleRPG\\02SampleRPG.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\02PracticeCSharp\\03Inheritance\\03Inheritance\\03Inheritance.csproj",
+      "projectName": "03Inheritance",
+      "projectPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\02PracticeCSharp\\03Inheritance\\03Inheritance\\03Inheritance.csproj",
       "packagesPath": "C:\\Users\\yuma\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\02PracticeCSharp\\02SampleRPG\\02SampleRPG\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\02PracticeCSharp\\03Inheritance\\03Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuma\\AppData\\Roaming\\NuGet\\NuGet.Config",

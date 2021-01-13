@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\acfoa\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\acfoa\\.nuget\\packages"
+      "C:\\Users\\yuma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yuma\\.nuget\\packages"
     ]
   }
 }
