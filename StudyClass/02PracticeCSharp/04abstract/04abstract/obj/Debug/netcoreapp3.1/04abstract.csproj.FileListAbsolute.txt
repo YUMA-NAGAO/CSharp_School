@@ -1,0 +1,13 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\bin\Debug\netcoreapp3.1\04abstract.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\bin\Debug\netcoreapp3.1\04abstract.deps.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\bin\Debug\netcoreapp3.1\04abstract.runtimeconfig.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\bin\Debug\netcoreapp3.1\04abstract.runtimeconfig.dev.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\bin\Debug\netcoreapp3.1\04abstract.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\bin\Debug\netcoreapp3.1\04abstract.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\obj\Debug\netcoreapp3.1\04abstract.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\obj\Debug\netcoreapp3.1\04abstract.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\obj\Debug\netcoreapp3.1\04abstract.AssemblyInfo.cs
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\obj\Debug\netcoreapp3.1\04abstract.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\obj\Debug\netcoreapp3.1\04abstract.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\obj\Debug\netcoreapp3.1\04abstract.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\04abstract\04abstract\obj\Debug\netcoreapp3.1\04abstract.genruntimeconfig.cache
