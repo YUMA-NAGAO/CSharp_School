@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuma\\source\\repos\\StudyClass\\08Class\\08Class\\08Class.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\01ClassTask\\08Class\\08Class\\08Class.csproj",
       "projectName": "08Class",
-      "projectPath": "C:\\Users\\yuma\\source\\repos\\StudyClass\\08Class\\08Class\\08Class.csproj",
+      "projectPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\01ClassTask\\08Class\\08Class\\08Class.csproj",
       "packagesPath": "C:\\Users\\yuma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuma\\source\\repos\\StudyClass\\08Class\\08Class\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\01ClassTask\\08Class\\08Class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

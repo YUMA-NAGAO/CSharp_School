@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acfoa\\Downloads\\programing\\CSharp_School\\StudyClass\\09SelfClass\\09SelfClass\\09SelfClass.csproj": {}
+    "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\01ClassTask\\09SelfClass\\09SelfClass\\09SelfClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acfoa\\Downloads\\programing\\CSharp_School\\StudyClass\\09SelfClass\\09SelfClass\\09SelfClass.csproj": {
+    "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\01ClassTask\\09SelfClass\\09SelfClass\\09SelfClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acfoa\\Downloads\\programing\\CSharp_School\\StudyClass\\09SelfClass\\09SelfClass\\09SelfClass.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\01ClassTask\\09SelfClass\\09SelfClass\\09SelfClass.csproj",
         "projectName": "09SelfClass",
-        "projectPath": "C:\\Users\\acfoa\\Downloads\\programing\\CSharp_School\\StudyClass\\09SelfClass\\09SelfClass\\09SelfClass.csproj",
-        "packagesPath": "C:\\Users\\acfoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acfoa\\Downloads\\programing\\CSharp_School\\StudyClass\\09SelfClass\\09SelfClass\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\01ClassTask\\09SelfClass\\09SelfClass\\09SelfClass.csproj",
+        "packagesPath": "C:\\Users\\yuma\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Downloads\\GitHub\\CSharp_School\\StudyClass\\01ClassTask\\09SelfClass\\09SelfClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acfoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,69 +8,94 @@ namespace _09SelfClass
     {
         static void Main(string[] args)
         {
-           
+            string filename = @"09SelfClass/Hello.txt";
+            Seiseki test = new Seiseki(filename);
+            List<double> SubAve = test.SubjectAverage();
+            for (int i = 0; i < SubAve.Count; i++)
+            {
+                Console.WriteLine(SubAve[i]);
+            }
         }
 
         public class Seiseki
         {
+            private Dictionary<string, Dictionary<string, int>> StuGrades = new Dictionary<string, Dictionary<string, int>>();
+            private char[] kugiru = { ',', ' ', '\t' ,'　','\n','\r'};
+            List<string> SubjectName = new List<string>();
 
             public Seiseki(string filename)
             {
-                 StreamReader file1 = new StreamReader(filename);
+                StreamReader file1 = new StreamReader(filename);
 
 
-            string fis = file1.ReadLine();
-            char[] kugiru = { ',', ' ', '\t' };
-            //空の値をどのように処理をするのかについての記述、今回は、,,というふうな値があるときは、空白を入れ込むというものになっている
-            string[] Subject = fis.Split(kugiru, StringSplitOptions.RemoveEmptyEntries);
-            List<string> SubjectName = new List<string>();
+                string fis = file1.ReadLine();
+                //空の値をどのように処理をするのかについての記述、今回は、,,というふうな値があるときは、空白を入れ込むというものになっている
+                string[] Subject = fis.Split(kugiru, StringSplitOptions.RemoveEmptyEntries);
 
 
-            for (int i = 1; i < Subject.Length; i++)
-            {
-                SubjectName.Add(Subject[i]);
-            }
 
-
-            Dictionary<string, Dictionary<string, int>> StuGrades = new Dictionary<string, Dictionary<string, int>>();
-
-            while (!file1.EndOfStream)
-            {
-                string StuNamSub = file1.ReadLine();
-                string[] Student = StuNamSub.Split(kugiru);
-                string StudentName = Student[0];
-                //Console.WriteLine(StudentName);
-                Dictionary<string, int> SubNum = new Dictionary<string, int>();
-
-                for (int i = 1; i < SubjectName.Count + 1; i++)
+                for (int i = 2; i < Subject.Length; i++)
                 {
-                    SubNum.Add(SubjectName[i - 1], Int32.Parse(Student[i]));
+                    SubjectName.Add(Subject[i]);
                 }
 
-                StuGrades.Add(StudentName, SubNum);
+
+
+                    while (!file1.EndOfStream)
+                {
+                    string StuNamSub = file1.ReadLine();
+                    string[] Student = StuNamSub.Split(kugiru,StringSplitOptions.RemoveEmptyEntries);
+                    string StudentName = Student[1];
+              
+                    
+                    //Console.WriteLine(StudentName);
+                    Dictionary<string, int> SubNum = new Dictionary<string, int>();
+
+
+
+                    for (int i = 0; i < SubjectName.Count; i++)
+                    {
+                        SubNum.Add(SubjectName[i], Int32.Parse(Student[i+2]));
+                    }
+
+                    StuGrades.Add(StudentName, SubNum);
+
+                }
+
+
+
 
             }
 
- 
-
-           
-        }
-
-        public static double SubjectAverage(string StudentNum, char[] kugiru)
-        {
-
-            string[] StData = StudentNum.Split(kugiru, StringSplitOptions.RemoveEmptyEntries);
-            double StudentAverage = 0.0;
-            int SubjectNum = 0;
-            for (int i = 1; i < StData.Length; i++)
+            public List<double> SubjectAverage()
             {
-                SubjectNum = Int32.Parse(StData[i]);
-                StudentAverage += SubjectNum;
-            }
-            StudentAverage /= StData.Length;
 
-            return StudentAverage;
+                List<double> Kamokuheikin = new List<double>();
+                foreach (string kamoku in SubjectName)
+                {
+                    double average = 0.0;
+                    double avern = 0.0;
+                    foreach (string KojinMei in StuGrades.Keys)
+                    {
+                        Dictionary<string, int> Kojinseiseki = StuGrades[KojinMei];
+                        foreach (string kamokumei in Kojinseiseki.Keys)
+                        {
+                            if (kamokumei == kamoku)
+                            {
 
+                                average += Kojinseiseki[kamokumei];
+
+                            }
+                        }
+                        avern += 1;
+
+
+                    }
+                    average /= avern;
+                    Kamokuheikin.Add(average);
+                }
+                return Kamokuheikin;
+           }
         }
     }
 }

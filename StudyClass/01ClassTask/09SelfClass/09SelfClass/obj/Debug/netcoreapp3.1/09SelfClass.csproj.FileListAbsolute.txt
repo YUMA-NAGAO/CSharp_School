@@ -24,3 +24,16 @@ C:\Users\yuma\source\repos\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09Sel
 \\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.dll
 \\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.pdb
 \\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.genruntimeconfig.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.AssemblyInfo.cs
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.deps.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.runtimeconfig.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.runtimeconfig.dev.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\bin\Debug\netcoreapp3.1\09SelfClass.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\obj\Debug\netcoreapp3.1\09SelfClass.genruntimeconfig.cache
