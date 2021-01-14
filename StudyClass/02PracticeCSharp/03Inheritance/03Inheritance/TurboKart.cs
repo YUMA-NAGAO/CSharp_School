@@ -4,7 +4,15 @@ using System.Text;
 
 namespace _03Inheritance
 {
-    class TurboKart
+    class TurboKart:Kart
     {
+        public void Turbo()
+        {
+            Console.WriteLine("Boost");
+        }
+        public override void Horn()
+        {
+            Console.WriteLine("BEE.bee");
+        }
     }
 }

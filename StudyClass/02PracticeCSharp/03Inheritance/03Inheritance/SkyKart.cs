@@ -4,9 +4,18 @@ using System.Text;
 
 namespace _03Inheritance
 {
-    class SkyKart
+    class SkyKart:Kart
     {
-        public int weight;
-        public int speed;
+
+        
+        public void Flying()
+        {
+            Console.WriteLine("Take out");
+        }
+
+        public override void Horn()
+        {
+            Console.WriteLine("Pi.Piii");
+        }
     }
 }

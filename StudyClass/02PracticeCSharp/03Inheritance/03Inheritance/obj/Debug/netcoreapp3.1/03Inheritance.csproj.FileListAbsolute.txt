@@ -1,0 +1,13 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\bin\Debug\netcoreapp3.1\03Inheritance.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\bin\Debug\netcoreapp3.1\03Inheritance.deps.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\bin\Debug\netcoreapp3.1\03Inheritance.runtimeconfig.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\bin\Debug\netcoreapp3.1\03Inheritance.runtimeconfig.dev.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\bin\Debug\netcoreapp3.1\03Inheritance.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\bin\Debug\netcoreapp3.1\03Inheritance.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\obj\Debug\netcoreapp3.1\03Inheritance.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\obj\Debug\netcoreapp3.1\03Inheritance.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\obj\Debug\netcoreapp3.1\03Inheritance.AssemblyInfo.cs
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\obj\Debug\netcoreapp3.1\03Inheritance.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\obj\Debug\netcoreapp3.1\03Inheritance.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\obj\Debug\netcoreapp3.1\03Inheritance.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\03Inheritance\03Inheritance\obj\Debug\netcoreapp3.1\03Inheritance.genruntimeconfig.cache
