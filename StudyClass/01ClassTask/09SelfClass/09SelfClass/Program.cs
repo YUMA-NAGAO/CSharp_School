@@ -8,20 +8,25 @@ namespace _09SelfClass
     {
         static void Main(string[] args)
         {
-            string filename = @"09SelfClass/Hello.txt";
+            string filename = @"\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\01ClassTask\09SelfClass\09SelfClass\Hello.txt";
             Seiseki test = new Seiseki(filename);
-            List<double> SubAve = test.SubjectAverage();
-            for (int i = 0; i < SubAve.Count; i++)
-            {
-                Console.WriteLine(SubAve[i]);
-            }
+            //Dictionary<string,double> SubAve = test.AverageOfSubjects();
+            //foreach (string result in SubAve.Keys)
+            //{
+            //    Console.WriteLine("{0}:{1}",result,SubAve[result]);
+            //}
+
+            test.NumberOfStudents = 10;
+            Console.WriteLine(test.NumberOfStudents);
+   
         }
 
         public class Seiseki
         {
             private Dictionary<string, Dictionary<string, int>> StuGrades = new Dictionary<string, Dictionary<string, int>>();
             private char[] kugiru = { ',', ' ', '\t' ,'　','\n','\r'};
-            List<string> SubjectName = new List<string>();
+            private List<string> SubjectName = new List<string>();
+            private int NumOfStudents = 0;
 
             public Seiseki(string filename)
             {
@@ -67,9 +72,36 @@ namespace _09SelfClass
 
             }
 
-            public List<double> SubjectAverage()
+            public int NumOfSubjects
+            {
+                get
+                {
+                    return SubjectName.Count;
+                }
+            }
+
+            public int NumberOfStudents
             {
 
+                set
+                {
+                    NumOfStudents = value;
+                    if (NumOfStudents < StuGrades.Count)
+                    {
+                        NumOfStudents = StuGrades.Count;
+                    }
+
+                }
+
+                get
+                {
+                    return NumOfStudents;
+                }
+            }
+
+            public Dictionary<string,double> AverageOfSubjects()
+            {
+                Dictionary<string, double> AverageOfSubjectsAll = new Dictionary<string, double>();
                 List<double> Kamokuheikin = new List<double>();
                 foreach (string kamoku in SubjectName)
                 {
@@ -94,8 +126,32 @@ namespace _09SelfClass
                     average /= avern;
                     Kamokuheikin.Add(average);
                 }
-                return Kamokuheikin;
+
+                for (int i=0;i<SubjectName.Count;i++)
+                {
+                    AverageOfSubjectsAll.Add(SubjectName[i], Kamokuheikin[i]);
+                }
+
+                return AverageOfSubjectsAll;
            }
+
+            public string GetStudentName(int num)
+            {
+                string GetStudentName="";
+
+                return GetStudentName;
+            }
+
+            public double AverageOfStudent(int num)
+            {
+                double AverageOfStudent = 0.0;
+                return AverageOfStudent;
+            }
+            public int RankingInClass(int num)
+            {
+                int RankingInClass = 0;
+                return RankingInClass;
+            }
         }
     }
 }
