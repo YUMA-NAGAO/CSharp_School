@@ -16,8 +16,9 @@ namespace _09SelfClass
             //    Console.WriteLine("{0}:{1}",result,SubAve[result]);
             //}
 
-            test.NumberOfStudents = 10;
-            Console.WriteLine(test.NumberOfStudents);
+            //test.NumberOfStudents = 10;
+            //Console.WriteLine(test.NumberOfStudents);
+            test.GetStudentName(1);
    
         }
 
@@ -27,6 +28,7 @@ namespace _09SelfClass
             private char[] kugiru = { ',', ' ', '\t' ,'　','\n','\r'};
             private List<string> SubjectName = new List<string>();
             private int NumOfStudents = 0;
+            private List<Dictionary<string, Dictionary<string, int>>> AllData = new List<Dictionary<string, Dictionary<string, int>>>();
 
             public Seiseki(string filename)
             {
@@ -46,10 +48,11 @@ namespace _09SelfClass
 
 
 
-                    while (!file1.EndOfStream)
+                while (!file1.EndOfStream)
                 {
                     string StuNamSub = file1.ReadLine();
                     string[] Student = StuNamSub.Split(kugiru,StringSplitOptions.RemoveEmptyEntries);
+                    int StudentNum = Int32.Parse(Student[0]);
                     string StudentName = Student[1];
               
                     
@@ -64,8 +67,9 @@ namespace _09SelfClass
                     }
 
                     StuGrades.Add(StudentName, SubNum);
-
+                    AllData.Add(StuGrades);
                 }
+
 
 
 
@@ -135,11 +139,16 @@ namespace _09SelfClass
                 return AverageOfSubjectsAll;
            }
 
-            public string GetStudentName(int num)
+            public void GetStudentName(int num)
             {
+                foreach (string StudentName in AllData[num - 2].Keys)
+                {
+                    Console.WriteLine(StudentName);
+                }
+
                 string GetStudentName="";
 
-                return GetStudentName;
+                //return GetStudentName;
             }
 
             public double AverageOfStudent(int num)
