@@ -1,0 +1,13 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\bin\Debug\netcoreapp3.1\06ListBinarySerach.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\bin\Debug\netcoreapp3.1\06ListBinarySerach.deps.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\bin\Debug\netcoreapp3.1\06ListBinarySerach.runtimeconfig.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\bin\Debug\netcoreapp3.1\06ListBinarySerach.runtimeconfig.dev.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\bin\Debug\netcoreapp3.1\06ListBinarySerach.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\bin\Debug\netcoreapp3.1\06ListBinarySerach.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\obj\Debug\netcoreapp3.1\06ListBinarySerach.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\obj\Debug\netcoreapp3.1\06ListBinarySerach.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\obj\Debug\netcoreapp3.1\06ListBinarySerach.AssemblyInfo.cs
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\obj\Debug\netcoreapp3.1\06ListBinarySerach.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\obj\Debug\netcoreapp3.1\06ListBinarySerach.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\obj\Debug\netcoreapp3.1\06ListBinarySerach.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\06ListBinarySerach\06ListBinarySerach\obj\Debug\netcoreapp3.1\06ListBinarySerach.genruntimeconfig.cache

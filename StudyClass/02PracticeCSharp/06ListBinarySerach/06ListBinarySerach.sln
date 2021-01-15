@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ListBinarySerach", "06ListBinarySerach\06ListBinarySerach.csproj", "{E851FDF8-E7AA-43ED-9B28-5E56BA9B3829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E851FDF8-E7AA-43ED-9B28-5E56BA9B3829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E851FDF8-E7AA-43ED-9B28-5E56BA9B3829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E851FDF8-E7AA-43ED-9B28-5E56BA9B3829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E851FDF8-E7AA-43ED-9B28-5E56BA9B3829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFC94FD-A934-4191-85C9-0F6B61C3EA1F}
+	EndGlobalSection
+EndGlobal
