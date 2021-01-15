@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _09SelfClass
 {
@@ -18,8 +19,16 @@ namespace _09SelfClass
 
             //test.NumberOfStudents = 10;
             //Console.WriteLine(test.NumberOfStudents);
-            test.GetStudentName(1);
-   
+
+            Console.WriteLine(test.RankingInClass(1));
+            Console.WriteLine(test.RankingInClass(2));
+            Console.WriteLine(test.RankingInClass(3));
+
+            //test.RankingInClass(1);
+            //test.RankingInClass(2);
+            //test.RankingInClass(3);
+
+
         }
 
         public class Seiseki
@@ -29,6 +38,8 @@ namespace _09SelfClass
             private List<string> SubjectName = new List<string>();
             private int NumOfStudents = 0;
             private List<Dictionary<string, Dictionary<string, int>>> AllData = new List<Dictionary<string, Dictionary<string, int>>>();
+            private List<string> student = new List<string>();
+
 
             public Seiseki(string filename)
             {
@@ -69,7 +80,10 @@ namespace _09SelfClass
                     StuGrades.Add(StudentName, SubNum);
                     AllData.Add(StuGrades);
                 }
-
+                foreach (string StudentName in StuGrades.Keys)
+                {
+                    student.Add(StudentName);
+                }
 
 
 
@@ -139,26 +153,59 @@ namespace _09SelfClass
                 return AverageOfSubjectsAll;
            }
 
-            public void GetStudentName(int num)
+            public string GetStudentName(int num)
             {
-                foreach (string StudentName in AllData[num - 2].Keys)
-                {
-                    Console.WriteLine(StudentName);
-                }
-
-                string GetStudentName="";
-
-                //return GetStudentName;
+                num = num - 1;
+                return student[num];
             }
 
             public double AverageOfStudent(int num)
             {
                 double AverageOfStudent = 0.0;
+                int SubjectNum = 0;
+                num -= 1;
+                string StudentName = student[num];
+
+                foreach (double sum in StuGrades[StudentName].Values)
+                {
+                    AverageOfStudent += sum;
+                    SubjectNum += 1;
+                }
+
+                AverageOfStudent /= SubjectNum;
+
                 return AverageOfStudent;
             }
             public int RankingInClass(int num)
             {
+                Dictionary<string, double> studentData = new Dictionary<string, double>();
+                List<double> studentJuni = new List<double>();
                 int RankingInClass = 0;
+                
+
+                for (int i=0;i< student.Count; i++)
+                {
+                    studentData.Add(student[i], AverageOfStudent(i+1));
+                }
+
+                foreach (double seiseki in studentData.Values)
+                {
+                    studentJuni.Add(seiseki);
+                }
+                studentJuni.Sort();
+                //for (int i = 0; i < studentJuni.Count; i++)
+                //{
+                //    Console.WriteLine(studentJuni[i]);
+                //}
+
+                //var studentSeiseki = studentData.Values.ToArray();
+
+                double n = AverageOfStudent(num);
+
+                RankingInClass = studentJuni.Count- studentJuni.BinarySearch(n);
+
+                string aan = null;
+
                 return RankingInClass;
             }
         }
