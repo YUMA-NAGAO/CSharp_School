@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PracticeWindowsFormsApp1
+namespace _07PracticeWindowsFormsApp1
 {
     public partial class Form1 : Form
     {
@@ -17,14 +17,6 @@ namespace PracticeWindowsFormsApp1
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
 
-        }
-
-        private void test2(object sender, MouseEventArgs e)
-        {
-
-        }
     }
 }
