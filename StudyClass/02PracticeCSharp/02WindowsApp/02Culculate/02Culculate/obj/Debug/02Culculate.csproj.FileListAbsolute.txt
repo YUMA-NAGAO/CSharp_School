@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\bin\Debug\02Culculate.exe.config
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\bin\Debug\02Culculate.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\bin\Debug\02Culculate.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\obj\Debug\02Culculate.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\obj\Debug\_02Culculate.Form1.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\obj\Debug\_02Culculate.Properties.Resources.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\obj\Debug\02Culculate.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\obj\Debug\02Culculate.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\obj\Debug\02Culculate.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\02Culculate\02Culculate\obj\Debug\02Culculate.pdb
