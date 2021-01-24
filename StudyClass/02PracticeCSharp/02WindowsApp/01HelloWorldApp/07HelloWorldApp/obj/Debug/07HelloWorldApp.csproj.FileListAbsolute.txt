@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\bin\Debug\07HelloWorldApp.exe.config
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\bin\Debug\07HelloWorldApp.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\bin\Debug\07HelloWorldApp.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\obj\Debug\07HelloWorldApp.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\obj\Debug\_07HelloWorldApp.Form1.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\obj\Debug\_07HelloWorldApp.Properties.Resources.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\obj\Debug\07HelloWorldApp.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\obj\Debug\07HelloWorldApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\obj\Debug\07HelloWorldApp.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\07HelloWorldApp\07HelloWorldApp\obj\Debug\07HelloWorldApp.pdb
