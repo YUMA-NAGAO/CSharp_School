@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\bin\Debug\05ComboRadioBox.exe.config
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\bin\Debug\05ComboRadioBox.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\bin\Debug\05ComboRadioBox.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\obj\Debug\05ComboRadioBox.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\obj\Debug\_05ComboRadioBox.Form1.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\obj\Debug\_05ComboRadioBox.Properties.Resources.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\obj\Debug\05ComboRadioBox.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\obj\Debug\05ComboRadioBox.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\obj\Debug\05ComboRadioBox.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\05ComboRadioBox\05ComboRadioBox\obj\Debug\05ComboRadioBox.pdb

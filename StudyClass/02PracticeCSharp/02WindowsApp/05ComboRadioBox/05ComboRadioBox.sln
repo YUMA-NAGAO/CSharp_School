@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ComboRadioBox", "05ComboRadioBox\05ComboRadioBox.csproj", "{A90E5520-8112-4024-AD33-172A036427F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90E5520-8112-4024-AD33-172A036427F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90E5520-8112-4024-AD33-172A036427F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90E5520-8112-4024-AD33-172A036427F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90E5520-8112-4024-AD33-172A036427F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E6725F-E3FF-4428-850E-11D0B8809068}
+	EndGlobalSection
+EndGlobal

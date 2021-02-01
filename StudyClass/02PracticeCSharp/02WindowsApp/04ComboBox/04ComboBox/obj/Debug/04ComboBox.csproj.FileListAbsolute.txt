@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\bin\Debug\04ComboBox.exe.config
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\bin\Debug\04ComboBox.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\bin\Debug\04ComboBox.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\obj\Debug\04ComboBox.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\obj\Debug\_04ComboBox.Form1.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\obj\Debug\_04ComboBox.Properties.Resources.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\obj\Debug\04ComboBox.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\obj\Debug\04ComboBox.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\obj\Debug\04ComboBox.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\04ComboBox\04ComboBox\obj\Debug\04ComboBox.pdb
