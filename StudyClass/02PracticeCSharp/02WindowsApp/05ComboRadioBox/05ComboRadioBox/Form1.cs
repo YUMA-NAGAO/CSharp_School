@@ -15,22 +15,30 @@ namespace _05ComboRadioBox
         public Form1()
         {
             InitializeComponent();
+            if (Radio1.Checked == true)
+            {
+                comboBox1.Visible = false;
+            }
+            else if (radioButton2.Checked == true)
+            {
+                comboBox1.Visible = true;
+            }
         }
 
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            if (Radio1.Checked == true)
+            {
+                label1.Text = "ラジオ１";
+            }
+            else if (radioButton2.Checked == true)
+            {
+                label1.Text = "radio2";
+            }
         }
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-            comboBox1.Visible = radioButton2.Checked;
-        }
 
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
-        {
-            
-        }
+
     }
 }
