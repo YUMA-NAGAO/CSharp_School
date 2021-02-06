@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\bin\Debug\06ComboAdd.exe.config
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\bin\Debug\06ComboAdd.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\bin\Debug\06ComboAdd.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\obj\Debug\06ComboAdd.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\obj\Debug\_06ComboAdd.Form1.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\obj\Debug\_06ComboAdd.Properties.Resources.resources
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\obj\Debug\06ComboAdd.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\obj\Debug\06ComboAdd.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\obj\Debug\06ComboAdd.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\02WindowsApp\06ComboAdd\06ComboAdd\obj\Debug\06ComboAdd.pdb

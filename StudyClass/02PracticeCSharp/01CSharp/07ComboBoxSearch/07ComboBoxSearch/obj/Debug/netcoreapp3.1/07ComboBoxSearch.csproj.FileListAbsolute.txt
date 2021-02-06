@@ -1,0 +1,13 @@
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\bin\Debug\netcoreapp3.1\07ComboBoxSearch.exe
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\bin\Debug\netcoreapp3.1\07ComboBoxSearch.deps.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\bin\Debug\netcoreapp3.1\07ComboBoxSearch.runtimeconfig.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\bin\Debug\netcoreapp3.1\07ComboBoxSearch.runtimeconfig.dev.json
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\bin\Debug\netcoreapp3.1\07ComboBoxSearch.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\bin\Debug\netcoreapp3.1\07ComboBoxSearch.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\obj\Debug\netcoreapp3.1\07ComboBoxSearch.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\obj\Debug\netcoreapp3.1\07ComboBoxSearch.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\obj\Debug\netcoreapp3.1\07ComboBoxSearch.AssemblyInfo.cs
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\obj\Debug\netcoreapp3.1\07ComboBoxSearch.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\obj\Debug\netcoreapp3.1\07ComboBoxSearch.dll
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\obj\Debug\netcoreapp3.1\07ComboBoxSearch.pdb
+\\Mac\Home\Downloads\GitHub\CSharp_School\StudyClass\02PracticeCSharp\01CSharp\07ComboBoxSearch\07ComboBoxSearch\obj\Debug\netcoreapp3.1\07ComboBoxSearch.genruntimeconfig.cache
