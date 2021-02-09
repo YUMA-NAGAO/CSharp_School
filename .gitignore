@@ -43,3 +43,6 @@ Thumbs.db
 *.cache
 *.pdb
 *.suo
+*.json
+*.txt
+*.props
