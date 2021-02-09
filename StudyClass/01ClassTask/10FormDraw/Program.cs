@@ -31,9 +31,9 @@ namespace Downloads
 
 			
 //			e.Graphics.FillEllipse(redBrush,0,0,200,100);
-			e.Graphics.FillEllipse(greenBrush,200,150,200,200);
-			e.Graphics.FillEllipse(blueBrush,200,150,400,400);	
-}
-}
+			e.Graphics.FillEllipse(blueBrush,200,100,350,350);
+			e.Graphics.FillEllipse(greenBrush, 230, 130, 300, 300);
+		}
+	}
 
 }

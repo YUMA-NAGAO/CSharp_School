@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yuma\\.nuget\\packages\\": {}
+    "C:\\Users\\acfoa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuma\\OneDrive - 独立行政法人 国立高等専門学校機構\\01専攻科\\01授業\\2年_課題など\\オブジェクト指向\\CSharp_School\\StudyClass\\01ClassTask\\10FormDraw\\Downloads.csproj",
+      "projectUniqueName": "C:\\Users\\acfoa\\OneDrive - 独立行政法人 国立高等専門学校機構\\01専攻科\\01授業\\2年_課題など\\オブジェクト指向\\CSharp_School\\StudyClass\\01ClassTask\\10FormDraw\\Downloads.csproj",
       "projectName": "Downloads",
-      "projectPath": "C:\\Users\\yuma\\OneDrive - 独立行政法人 国立高等専門学校機構\\01専攻科\\01授業\\2年_課題など\\オブジェクト指向\\CSharp_School\\StudyClass\\01ClassTask\\10FormDraw\\Downloads.csproj",
-      "packagesPath": "C:\\Users\\yuma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuma\\OneDrive - 独立行政法人 国立高等専門学校機構\\01専攻科\\01授業\\2年_課題など\\オブジェクト指向\\CSharp_School\\StudyClass\\01ClassTask\\10FormDraw\\obj\\",
+      "projectPath": "C:\\Users\\acfoa\\OneDrive - 独立行政法人 国立高等専門学校機構\\01専攻科\\01授業\\2年_課題など\\オブジェクト指向\\CSharp_School\\StudyClass\\01ClassTask\\10FormDraw\\Downloads.csproj",
+      "packagesPath": "C:\\Users\\acfoa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acfoa\\OneDrive - 独立行政法人 国立高等専門学校機構\\01専攻科\\01授業\\2年_課題など\\オブジェクト指向\\CSharp_School\\StudyClass\\01ClassTask\\10FormDraw\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\acfoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
