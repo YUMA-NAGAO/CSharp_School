@@ -1,9 +1,11 @@
 using System;
 using System.Windows.Forms;
 using System.Drawing;
+
 namespace Downloads
 {
-    static class Program
+
+	static class Program
     {
         static void Main()
         {
@@ -13,9 +15,10 @@ namespace Downloads
 	
 	public class MyForm :Form{
 		public MyForm(){
-			Size=new Size(800,600);
-			ShowDialog();			
-}
+
+            Size = new Size(800, 600);
+            ShowDialog();
+        }
 	protected override void OnPaint(PaintEventArgs e){
 			Color red=Color.FromArgb(255,0,0);
 			Color green=Color.FromArgb(0,255,0);
@@ -25,15 +28,19 @@ namespace Downloads
 			SolidBrush greenBrush=new SolidBrush(green);
 			SolidBrush blueBrush=new SolidBrush(blue);
 
+            Pen greenPen = new Pen(greenBrush,10.0F);
 
-		/*Pen pen=new Pen(col);
-			e.Graphics.DrawLine(pen,0,0,800,600);*/
+            int x=300;
+            int y=200;
+            int width;
+            int height;
 
-			
-//			e.Graphics.FillEllipse(redBrush,0,0,200,100);
-			e.Graphics.FillEllipse(blueBrush,200,100,350,350);
-			e.Graphics.FillEllipse(greenBrush, 230, 130, 300, 300);
-		}
+            width = height = 200;
+
+            e.Graphics.FillEllipse(blueBrush, x,y, width, height);
+            //e.Graphics.FillEllipse(greenBrush, 230, 130, 300, 300);
+            e.Graphics.DrawEllipse(greenPen, x, y, width, height);
+        }
 	}
 
 }
